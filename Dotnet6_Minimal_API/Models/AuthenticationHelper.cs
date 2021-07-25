@@ -1,7 +1,4 @@
-using Microsoft.AspNetCore.Builder;
-using Microsoft.IdentityModel.Tokens;
-using System.Text;
-using System.IdentityModel.Tokens.Jwt;
+
 public class AuthenticationHelper
 {
 
