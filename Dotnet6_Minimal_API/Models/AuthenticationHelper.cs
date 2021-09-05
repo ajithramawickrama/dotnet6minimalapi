@@ -2,8 +2,8 @@
 public class AuthenticationHelper
 {
 
-    Configuration _configuration;
-    public AuthenticationHelper(Configuration configuration)
+    IConfiguration  _configuration;
+    public AuthenticationHelper(IConfiguration configuration)
     {
         _configuration = configuration;
     }
